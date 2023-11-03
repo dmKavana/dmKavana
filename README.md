@@ -5,6 +5,6 @@
 - 📫 Ph.No: 8217424084, mail:kavanadm05@gmail.com
 
 <!---
-dmKavana/dmKavana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dmKavana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

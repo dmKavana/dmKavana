@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavana D M
 - 👀 I’m interested in Development role
-- 🌱 Having knowledge on technologies like JAVA, Collection , OOPs Concepts, MultiThreading, SQL, HTML5, CSS, JAVASCRIPT, JDBC, GIT, Spring and Data Structure. 
+- 🌱 Having knowledge on technologies like JAVA, Collection , OOPs Concepts, MultiThreading, SQL, HTML5, CSS, JAVASCRIPT, JDBC, GIT, and Spring. 
 - 💞️ I've been looking for developer role
 - 📫 Ph.No: 8217424084, mail:kavanadm05@gmail.com
 

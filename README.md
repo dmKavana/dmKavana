@@ -33,6 +33,6 @@
 <img src="https://github.com/dmKavana/dmKavana/blob/main/download(3).png width="50" height="50">
 <img src=" width="50" height="50">
 <img src="https://github.com/dmKavana/dmKavana/blob/main/download.png" width="50" height="50">
-<img src="https://github.com/dmKavana/dmKavana/blob/main/download(1).png" width="50" height="50">
+<img src="[https://github.com/dmKavana/dmKavana/blob/main/download(1).png]" width="50" height="50">
 <img src="https://github.com/dmKavana/dmKavana/blob/main/image.png width="50" height="50">
 

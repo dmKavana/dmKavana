@@ -29,6 +29,10 @@
 
 
 # Languages and Tools
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://github.com/dmKavana/dmKavana/blob/main/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png?raw=true" alt="java" width="50" height="50">
+<img src=" width="50" height="50">
+<img src=" width="50" height="50">
+<img src=" width="50" height="50">
+<img src=" width="50" height="50">
+<img src=" width="50" height="50">
 

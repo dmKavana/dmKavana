@@ -1,4 +1,6 @@
-👋 **Hi, I’m Kavana D M**
+<p align="center">
+👋 Hi, I’m Kavana D M</p>
+ 
 
 # ✈️ About Me
 > I'm a passionate Java developer specializing in building robust web applications using Spring and Hibernate. With a strong foundation in backend development, I strive to create efficient and scalable solutions.

@@ -1,5 +1,5 @@
-<p align="center">
-👋 Hi, I’m Kavana D M</p>
+<p align="center"><b>
+👋 Hi, I’m Kavana D M</b></p>
  
 
 # ✈️ About Me

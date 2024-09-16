@@ -1,7 +1,22 @@
 👋 **Hi, I’m Kavana D M**
 
-# About Me
+# ✈️ About Me
 > I'm a passionate Java developer specializing in building robust web applications using Spring and Hibernate. With a strong foundation in backend development, I strive to create efficient and scalable solutions.
 * 🔭 I'm currently working on enhancing my skills in microservices architecture
 + 💬 Ask me about Spring, Hibernate, Java, RESTful APIs and MySQL.
 - 📫 How to reach me: kavanadm05@gmail.com
+
+# Skills
+- Java
+- JDBC
+- Hibernate
+- Spring Boot
+- MySQL
+- Html
+- CSS
+- JavaScript
+- Version Control
+- Git
+
+# 🔗 Connect with me
+(https://www.linkedin.com/in/kavanadm)

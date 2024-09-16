@@ -25,7 +25,7 @@
 
 
 # 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavanadm)
+[![LinkedIn](linkedin.png?width=20px&height=20px)](https://www.linkedin.com/in/kavanadm)
 
 
 # Languages and Tools

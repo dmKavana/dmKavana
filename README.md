@@ -30,5 +30,5 @@
 
 # Languages and Tools
 <img src="https://github.com/dmKavana/dmKavana/blob/main/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png?raw=true" alt="java" width="50" height="50">
-<img src="./download(2).png" width="50" height="50"><img src=" width="50" height="50"><img src="https://github.com/dmKavana/dmKavana/blob/main/download.png" width="50" height="50"><img src="./download (1).png" width="50" height="50"><img src="./images.png" width="50" height="50">
+<img src="./download (2).png" width="50" height="50"><img src=" width="50" height="50"><img src="https://github.com/dmKavana/dmKavana/blob/main/download.png" width="50" height="50"><img src="./download (1).png" width="50" height="50"><img src="./images.png" width="50" height="50">
 

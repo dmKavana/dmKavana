@@ -16,9 +16,5 @@
 - DBMS
 - Git
 
-# 📊 GiHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)
-
-
 # 🔗 Connect with me
 [![LinkedIn](linkedin.png?width=10px&height=10px)](https://www.linkedin.com/in/kavanadm22)

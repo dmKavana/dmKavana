@@ -21,7 +21,7 @@
 
 
 # 🔗 Connect with me
-[![LinkedIn](linkedin.png?width=20px&height=20px)](https://www.linkedin.com/in/kavanadm)
+[![LinkedIn](linkedin.png?width=10px&height=10px)](https://www.linkedin.com/in/kavanadm22)
 
 
 # Languages and Tools

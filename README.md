@@ -3,21 +3,17 @@
  
 
 # ✈️ About Me
-> I'm a passionate Java developer specializing in building web applications using Spring and Hibernate. With a strong foundation in backend development, I strive to create efficient and scalable solutions.
-* 🔭 I'm currently working on enhancing my skills in microservices architecture
-+ 💬 Ask me about Spring, Hibernate, Java, RESTful APIs and MySQL.
+> I'm a passionate Data Analyst with a knowledge in SQL, Advanced Excel, Statistical Analysis, and Automation.  .
+* 🔭 I'm currently enhancing my skills in Advanced Python
++ 💬 Ask me about SQL, DBMS, Advanced Excel and Statistical Analysis.
 - 📫 How to reach me: kavanadm05@gmail.com
 
 # Skills
-- Java
-- JDBC
-- Hibernate
-- Spring Boot
-- MySQL
-- Html
-- CSS
-- JavaScript
-- Version Control
+- SQL
+- Excel
+- Power BI
+- Statistics 
+- DBMS
 - Git
 
 # 📊 GiHub Stats
